@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,TECH AFICIONADA I'm MOHAMMED UMAIZ</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center"> Here 👋 Mohammed Umaiz </h1>
+<h3 align="center"> </h3>
 
 - 🔭 I’m currently working on **earne.com**
 
