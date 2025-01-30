@@ -1,5 +1,5 @@
 <h1 align="center"> Here 👋 Mohammed Umaiz </h1>
-<h3 align="center"> </h3>
+<h3 align="center">🚀Hello Tech Buff's! 👋 I'm Mohammed Umaiz,Passionate developer with a love for solving problems and building impactful software. Always exploring new technologies, contributing to open-source projects, and continuously learning. Currently focused on LINUX,AWS,PYTHON & DevOps. Let's collaborate!"</h3>
 
 - 🔭 I’m currently working on **earne.com**
 
